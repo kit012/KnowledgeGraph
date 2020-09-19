@@ -14,3 +14,18 @@ This repository aims to store the knowledge graph related paper.
 *Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, Xuan Zhu.* AAAI 2015. [paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9571/9523/) [KB2E](https://github.com/thunlp/KB2E) [OpenKE](https://github.com/thunlp/OpenKE)
 	> An entity may have multiple aspects and various relations may focus on different aspects of entites. TransR first projects entities from entity space to corresponding relation space and then builds translations between projected entities.
 	CTransR extends TransR by clustering diverse head-tail entity pairs into groups and learning distinct relation vectors for each group, which is the initial exploration for modeling internal correlations within each relation type.
+
+### Must-read papers on Graph Neural Network from thunlp
+https://github.com/thunlp/GNNPapers#knowledge-graph
+
+### Must-read papers on KRL/KE from thunlp
+https://github.com/thunlp/KRLPapers/blob/master/README.md
+
+### Awesome Knowledge Graph Embedding Approaches from mommi84
+https://gist.github.com/mommi84/07f7c044fa18aaaa7b5133230207d8d4
+
+### Dynamic Knowledge Graph Completion from woojeongjin
+https://github.com/woojeongjin/dynamic-KG
+
+### Quert2box
+http://snap.stanford.edu/query2box/
