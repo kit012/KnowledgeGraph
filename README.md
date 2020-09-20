@@ -3,7 +3,7 @@
 This repository aims to store the knowledge graph related paper.
 
 1. **TransE: Translating Embeddings for Modeling Multi-relational Data.**
-*Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko.*  NIPS 2013. [paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) [code](https://github.com/thunlp/OpenKE)
+*Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko.*  NIPS 2013. [paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) [code](https://github.com/thunlp/OpenKE) [explaination](http://pyvandenbussche.info/2017/translating-embeddings-transe/#:~:text=TransE%20is%20a%20method%20which,of%20the%20knowledge%20graph%20entities.)
 	> TransE is the first model to introduce translation-based embedding, which interprets relations as the translations operating on entities.
 	
 	> <img src="https://render.githubusercontent.com/render/math?math=%5Cmathscr%7BL%7D%20%3D%20%5Csum_%7B(h%2Cl%2Ct)%5Cin%20S%7D%5Csum_%7B(h'%2Cl%2Ct')%5Cin%20S'_%7B(h%2Cl%2Ct)%7D%7D%20%5B%5Cgamma%2Bd(h%2Bl%2Ct)-d(h'%2Bl%2Bt')%5D_%7B%2B%7D">
