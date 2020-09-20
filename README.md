@@ -5,7 +5,7 @@ This repository aims to store the knowledge graph related paper.
 1. **TransE: Translating Embeddings for Modeling Multi-relational Data.**
 *Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko.*  NIPS 2013. [paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) [code](https://github.com/thunlp/OpenKE) [explaination](http://pyvandenbussche.info/2017/translating-embeddings-transe/#:~:text=TransE%20is%20a%20method%20which,of%20the%20knowledge%20graph%20entities.)
 	> TransE is the first model to introduce translation-based embedding, which interprets relations as the translations operating on entities.
-	> It inspired from the work of Tomas Mikolov: word2vec.
+	> It inspired from the work of Tomas Mikolov: [word2vec](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf).
 	
 1. **TransH: Knowledge Graph Embedding by Translating on Hyperplanes.**
 *Zhen Wang, Jianwen Zhang, Jianlin Feng, Zheng Chen.* AAAI 2014. [paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546) [code](https://github.com/thunlp/OpenkE)
