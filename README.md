@@ -30,3 +30,7 @@ https://github.com/woojeongjin/dynamic-KG
 
 ### Quert2box
 http://snap.stanford.edu/query2box/
+
+## Demo
+### AllenNLP
+https://demo.allennlp.org/named-entity-recognition/MjI2MTI1MQ==
